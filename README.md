@@ -2,7 +2,7 @@
 # EXPRESS Note Taker
 # Check the App here(http://localhost:3030/)
 
-![NoteTaker](https://github.com/Islam4049/ExpressNoteTaker/blob/master/db/public/assets/note-taker.png)
+![NoteTaker](https://github.com/Islam4049/Express-Note-Taker/blob/master/public/assets/note-taker.png)
 
 ## Version:
 1.0.0
