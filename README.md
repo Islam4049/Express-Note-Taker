@@ -1,5 +1,5 @@
 # Express-Note-Taker
-# Check the App here(http://localhost:3030/)
+# Check the App here(https://express-note-take.herokuapp.com/)
 
 ![NoteTaker](https://github.com/Islam4049/Express-Note-Taker/blob/master/public/assets/note-taker.png)
 
