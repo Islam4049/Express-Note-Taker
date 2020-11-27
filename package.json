@@ -13,5 +13,16 @@
     "express": "^4.17.1",
     "package": "^1.0.1",
     "uuid": "^3.4.0"
-  }
+  
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Islam4049/ExpressNoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Islam4049/ExpressNoteTaker/issues"
+  },
+  "homepage": "https://github.com/Islam4049/ExpressNoteTaker#readme"
 }
+
